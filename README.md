@@ -3,7 +3,8 @@
 ## Overview
 ["Roll a Ball"](https://learn.unity.com/project/roll-a-ball?uv=2022.3) is a simple 3D game developed as part of the "3D-Unity Game Development" course at the [Romanian-American University](https://www.rau.ro/?lang=en). In this game, players control a ball that rolls around a platform, collecting objects while avoiding obstacles.
 
-## Installation
+## Getting started
+### Installation
 To set up the project locally, follow these steps:
 1. Clone the repository:
 ```
@@ -17,9 +18,9 @@ git clone https://github.com/mariajosesalasmiranda/Roll-a-Ball.git
 - Open the project in Unity to download and install any necessary packages.
 
 ## Usage
-Open the project in Unity.
-Load the main scene located in the Assets/Scenes directory.
-Press the "Play" button in the Unity Editor to start the game.
+1. Open the project in Unity.
+2. Load the main scene located in the Assets/Scenes directory.
+3. Press the "Play" button in the Unity Editor to start the game.
 
 ## Gameplay
 In "Roll a Ball," you control a ball that rolls around a platform. Your goal is to collect all the objects scattered across the platform. The game is over once all objects are collected.
@@ -27,6 +28,10 @@ In "Roll a Ball," you control a ball that rolls around a platform. Your goal is 
 ## Controls
 Arrow Keys / WASD: Move the ball
 
-## Credits
-- Developed by @mariajosesalasmiranda
-- Course: 3D-Unity Game Development at the Romanian-American University
+## License 
+This project is licensed under the MIT License. It is intended for educational purposes and personal use. For any commercial use or redistribution, please refer to the terms mentioned in the license file.
+
+---
+
+> [!Note]
+>  This repository is primarily for educational purposes
