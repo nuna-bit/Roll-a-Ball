@@ -11,10 +11,10 @@ To set up the project locally, follow these steps:
 git clone https://github.com/nuna-bit/Roll-a-Ball.git
 ```
 2. Open the project in Unity:
+- Install Unity 2022.3.28f1 (or another 2022.3 LTS version) via Unity Hub.
 - Launch Unity Hub.
 - Click on "Add" and select the cloned project directory.
 3. Install dependencies:
-- Install Unity 2022.3.28f1 (or another 2022.3 LTS version) via Unity Hub.
 - Unity will automatically install the required packages listed in `Packages/manifest.json` when you first open the project, including the Input System, Universal Render Pipeline (URP), and TextMeshPro.
 
 ## Usage
