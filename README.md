@@ -1,25 +1,25 @@
 # Roll a Ball
 ![Roll a Ball Game](3d_unity.png)
 ## Overview
-["Roll a Ball"](https://learn.unity.com/project/roll-a-ball?uv=2022.3) is a simple 3D game developed as part of the "3D-Unity Game Development" course at the [Romanian-American University](https://www.rau.ro/?lang=en). In this game, players control a ball that rolls around a platform, collecting objects while avoiding obstacles.
+["Roll a Ball"](https://learn.unity.com/project/roll-a-ball?uv=2022.3) is a simple 3D game developed as part of the "3D-Unity Game Development" course at the [Romanian-American University](https://www.rau.ro/?lang=en). In this game, players control a ball that rolls around a platform, collecting 12 rotating pickups to win.
 
 ## Getting started
 ### Installation
 To set up the project locally, follow these steps:
 1. Clone the repository:
 ```
-git clone https://github.com/mariajosesalasmiranda/Roll-a-Ball.git
+git clone https://github.com/nuna-bit/Roll-a-Ball.git
 ```
 2. Open the project in Unity:
 - Launch Unity Hub.
 - Click on "Add" and select the cloned project directory.
 3. Install dependencies:
-- Ensure you have the correct version of Unity installed (check the project's settings for the version).
-- Open the project in Unity to download and install any necessary packages.
+- Install Unity 2022.3.28f1 (or another 2022.3 LTS version) via Unity Hub.
+- Unity will automatically install the required packages listed in `Packages/manifest.json` when you first open the project, including the Input System, Universal Render Pipeline (URP), and TextMeshPro.
 
 ## Usage
 1. Open the project in Unity.
-2. Load the main scene located in the Assets/Scenes directory.
+2. Open the `MiniGame` scene located in `Assets/Scenes`.
 3. Press the "Play" button in the Unity Editor to start the game.
 
 ## Gameplay
